@@ -6,9 +6,10 @@ body {
   height: 100vh;
   overflow:  -moz-hidden-unscrollable;
   /* background-size: cover; */
-  /* background: radial-gradient(ellipse at bottom, #0436a3 0%, #5594cf 100%); */
-  background-color: rgb(64, 153, 190);
+  background: radial-gradient(ellipse at bottom, #0c3181 0%, #6da8df 100%);
+  /* background-color: rgb(64, 153, 190); */
   color: white;
+  font-family: 'Inter'
 
   /* width: 100%;
   height: 100vh;
@@ -17,7 +18,7 @@ body {
   background: radial-gradient(ellipse at bottom, #0436a3 0%, #5594cf 100%);
   overflow: hidden;
   color: white;
-  font-family: 'Inter'; */
+  ; */
 }
 h3 {
   font-family: "Twinkle Star", cursive;
